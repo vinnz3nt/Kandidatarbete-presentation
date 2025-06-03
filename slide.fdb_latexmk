@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1748870139.98484 "/Users/vincentdahlberg/Documents/Skolkod/Kandidatarbete presentation/slide.tex" "slide.pdf" "slide" 1748870150.88087 0
-  "/Users/vincentdahlberg/Documents/Skolkod/Kandidatarbete presentation/slide.tex" 1748870116.9201 23949 8b3d3543d983adf29875949c16da28ef ""
+["pdflatex"] 1748946167.36995 "/Users/vincentdahlberg/Documents/Skolkod/Kandidatarbete presentation/slide.tex" "slide.pdf" "slide" 1748946178.62249 0
+  "/Users/vincentdahlberg/Documents/Skolkod/Kandidatarbete presentation/slide.tex" 1748946155.01379 24208 e5a2f10f34fd5591b47013bf841b34c1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -296,6 +296,7 @@
   "images/Ares1_im.pdf" 1748506711.09436 119464 73e1723e728e1a6f36f120bb7d0cd306 ""
   "images/Ares1_re.pdf" 1748506711.10077 119628 bb721af9c9d54815bba927fe62d1d0e7 ""
   "images/BILD_AV_TABELL2.png" 1748506787.61781 170720 735370d07e0e9cae016a2ca07f5833e0 ""
+  "images/Block_eigfunc.pdf" 1748506689.77744 184662 b9608acc2d364e6c2cbb191636c143a8 ""
   "images/Block_results.pdf" 1748506689.78213 186118 e269493f1178550a5bde14d89a8a7583 ""
   "images/Grcar1.pdf" 1748506711.36969 152421 689919f0cc7c25e69a46ea1502dc8069 ""
   "images/Grcar2.pdf" 1748506711.39288 152418 8ca89be93a750d5782f1f6b90c1234eb ""
@@ -313,11 +314,11 @@
   "images/modifiedgrcar1comp.pdf" 1748506689.89882 185440 351b4dd7d28b65bdbfec73b0b4a29bf7 ""
   "images/unstableeig.pdf" 1748506690.02232 154223 602b2c884881172cf1dd2bd308dba016 ""
   "images/unstableeigDouble.pdf" 1748506690.08914 154436 2f2cca3243c3dd50409c4e79087c2be0 ""
-  "slide.aux" 1748870150.5056 16394 f5e8a669adb140b53534517432832d56 "pdflatex"
-  "slide.nav" 1748870150.51245 4235 8cf5c9a9e6b39455babbb3dd92eef3f0 "pdflatex"
-  "slide.out" 1748870150.50945 418 866ea408ea18af075a39beaec2a4da65 "pdflatex"
-  "slide.tex" 1748870116.9201 23949 8b3d3543d983adf29875949c16da28ef ""
-  "slide.toc" 1748870150.51256 224 7bbbbf5a45b9f5cece012a0ff7091c65 "pdflatex"
+  "slide.aux" 1748946178.25923 16703 c914be03b6aa31cd46d50c180d8f2f90 "pdflatex"
+  "slide.nav" 1748946178.27412 4328 599538ac5cc1fec93c6a27035aa33c3e "pdflatex"
+  "slide.out" 1748946178.26322 418 866ea408ea18af075a39beaec2a4da65 "pdflatex"
+  "slide.tex" 1748946155.01379 24208 e5a2f10f34fd5591b47013bf841b34c1 ""
+  "slide.toc" 1748946178.2743 224 97193d6df00a55096b907160c0bc2095 "pdflatex"
   "style/uu_logo.pdf" 1748506529.78891 44220 71ae6fe5e2453182653003c69db4ea29 ""
   "style/uu_logo_bg.pdf" 1748506536.41031 32607 e86f509c6124909357e7a7860bd32682 ""
   (generated)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.28)  2 JUN 2025 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.28)  3 JUN 2025 12:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1491,12 +1491,12 @@ Package hyperref Warning: Suppressing link with empty target on input line 80.
 
 Package hyperref Warning: Suppressing link with empty target on input line 80.
 
-<style/uu_logo.pdf, id=80, 83.35738pt x 79.23042pt>
+<style/uu_logo.pdf, id=81, 83.35738pt x 79.23042pt>
 File: style/uu_logo.pdf Graphic file (type pdf)
 <use style/uu_logo.pdf>
 Package pdftex.def Info: style/uu_logo.pdf  used on input line 80.
 (pdftex.def)             Requested size: 54.18164pt x 51.49915pt.
-<style/uu_logo_bg.pdf, id=81, 120.45pt x 120.45pt>
+<style/uu_logo_bg.pdf, id=82, 120.45pt x 120.45pt>
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
 Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 80.
@@ -1550,7 +1550,7 @@ Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 132.
  [6
 
 ]
-<images/Laplace_presentation.pdf, id=743, 578.16pt x 433.62pt>
+<images/Laplace_presentation.pdf, id=756, 578.16pt x 433.62pt>
 File: images/Laplace_presentation.pdf Graphic file (type pdf)
 <use images/Laplace_presentation.pdf>
 Package pdftex.def Info: images/Laplace_presentation.pdf  used on input line 143.
@@ -1585,12 +1585,12 @@ Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 159.
  [10
 
 ]
-<images/Preproc2unsorted.pdf, id=1202, 578.16pt x 433.62pt>
+<images/Preproc2unsorted.pdf, id=1223, 578.16pt x 433.62pt>
 File: images/Preproc2unsorted.pdf Graphic file (type pdf)
 <use images/Preproc2unsorted.pdf>
 Package pdftex.def Info: images/Preproc2unsorted.pdf  used on input line 179.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/Preproc2sorted.pdf, id=1203, 578.16pt x 433.62pt>
+<images/Preproc2sorted.pdf, id=1224, 578.16pt x 433.62pt>
 File: images/Preproc2sorted.pdf Graphic file (type pdf)
 <use images/Preproc2sorted.pdf>
 Package pdftex.def Info: images/Preproc2sorted.pdf  used on input line 179.
@@ -1616,12 +1616,12 @@ Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 223.
  [13
 
 ]
-<images/Precond_10.pdf, id=1570, 578.16pt x 433.62pt>
+<images/Precond_10.pdf, id=1598, 578.16pt x 433.62pt>
 File: images/Precond_10.pdf Graphic file (type pdf)
 <use images/Precond_10.pdf>
 Package pdftex.def Info: images/Precond_10.pdf  used on input line 242.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/Precond_50.pdf, id=1573, 578.16pt x 433.62pt>
+<images/Precond_50.pdf, id=1601, 578.16pt x 433.62pt>
 File: images/Precond_50.pdf Graphic file (type pdf)
 <use images/Precond_50.pdf>
 Package pdftex.def Info: images/Precond_50.pdf  used on input line 242.
@@ -1657,297 +1657,309 @@ Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 272.
 [16
 
 ]
-Overfull \hbox (3.27998pt too wide) detected at line 324
+<images/Block_eigfunc.pdf, id=1975, 578.16pt x 433.62pt>
+File: images/Block_eigfunc.pdf Graphic file (type pdf)
+<use images/Block_eigfunc.pdf>
+Package pdftex.def Info: images/Block_eigfunc.pdf  used on input line 281.
+(pdftex.def)             Requested size: 215.10196pt x 161.3235pt.
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 281.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [17
+
+ <./images/Block_eigfunc.pdf>]
+Overfull \hbox (3.27998pt too wide) detected at line 334
 []
  []
 
 
-Overfull \hbox (3.27998pt too wide) detected at line 324
+Overfull \hbox (3.27998pt too wide) detected at line 334
 []
  []
 
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 324.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 334.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
-[17
+[18
 
 ]
-<images/unstableeigDouble.pdf, id=2048, 578.16pt x 433.62pt>
+<images/unstableeigDouble.pdf, id=2210, 578.16pt x 433.62pt>
 File: images/unstableeigDouble.pdf Graphic file (type pdf)
 <use images/unstableeigDouble.pdf>
-Package pdftex.def Info: images/unstableeigDouble.pdf  used on input line 343.
+Package pdftex.def Info: images/unstableeigDouble.pdf  used on input line 353.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:per_bi_lap_sym}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 \end{frame}
+l.353 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:per_bi_lap_sym}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 \end{frame}
+l.353 \end{frame}
                  
-<images/unstableeig.pdf, id=2049, 578.16pt x 433.62pt>
+<images/unstableeig.pdf, id=2211, 578.16pt x 433.62pt>
 File: images/unstableeig.pdf Graphic file (type pdf)
 <use images/unstableeig.pdf>
-Package pdftex.def Info: images/unstableeig.pdf  used on input line 343.
+Package pdftex.def Info: images/unstableeig.pdf  used on input line 353.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:eigval_per_bilap}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 \end{frame}
+l.353 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:eigval_per_bilap}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 \end{frame}
+l.353 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{fig:Spectrum\040Laplace\040&\040perturbed}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 \end{frame}
+l.353 \end{frame}
                  
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 343.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [18
-
- <./images/unstableeigDouble.pdf> <./images/unstableeig.pdf>]
-<images/Grcar_comp.pdf, id=2186, 578.16pt x 433.62pt>
-File: images/Grcar_comp.pdf Graphic file (type pdf)
-<use images/Grcar_comp.pdf>
-Package pdftex.def Info: images/Grcar_comp.pdf  used on input line 363.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/modifiedgrcar1comp.pdf, id=2187, 578.16pt x 433.62pt>
-File: images/modifiedgrcar1comp.pdf Graphic file (type pdf)
-<use images/modifiedgrcar1comp.pdf>
-Package pdftex.def Info: images/modifiedgrcar1comp.pdf  used on input line 363.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 363.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 353.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
  [19
 
- <./images/Grcar_comp.pdf> <./images/modifiedgrcar1comp.pdf>]
-<images/Grcar1.pdf, id=2335, 578.16pt x 433.62pt>
-File: images/Grcar1.pdf Graphic file (type pdf)
-<use images/Grcar1.pdf>
-Package pdftex.def Info: images/Grcar1.pdf  used on input line 383.
+ <./images/unstableeigDouble.pdf> <./images/unstableeig.pdf>]
+<images/Grcar_comp.pdf, id=2351, 578.16pt x 433.62pt>
+File: images/Grcar_comp.pdf Graphic file (type pdf)
+<use images/Grcar_comp.pdf>
+Package pdftex.def Info: images/Grcar_comp.pdf  used on input line 373.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/Grcar2.pdf, id=2336, 578.16pt x 433.62pt>
-File: images/Grcar2.pdf Graphic file (type pdf)
-<use images/Grcar2.pdf>
-Package pdftex.def Info: images/Grcar2.pdf  used on input line 383.
+<images/modifiedgrcar1comp.pdf, id=2352, 578.16pt x 433.62pt>
+File: images/modifiedgrcar1comp.pdf Graphic file (type pdf)
+<use images/modifiedgrcar1comp.pdf>
+Package pdftex.def Info: images/modifiedgrcar1comp.pdf  used on input line 373.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 383.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 373.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
  [20
 
- <./images/Grcar1.pdf> <./images/Grcar2.pdf>]
-<images/Grcar3.pdf, id=2477, 578.16pt x 433.62pt>
-File: images/Grcar3.pdf Graphic file (type pdf)
-<use images/Grcar3.pdf>
-Package pdftex.def Info: images/Grcar3.pdf  used on input line 401.
+ <./images/Grcar_comp.pdf> <./images/modifiedgrcar1comp.pdf>]
+<images/Grcar1.pdf, id=2501, 578.16pt x 433.62pt>
+File: images/Grcar1.pdf Graphic file (type pdf)
+<use images/Grcar1.pdf>
+Package pdftex.def Info: images/Grcar1.pdf  used on input line 393.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/Grcar4.pdf, id=2478, 578.16pt x 433.62pt>
-File: images/Grcar4.pdf Graphic file (type pdf)
-<use images/Grcar4.pdf>
-Package pdftex.def Info: images/Grcar4.pdf  used on input line 401.
+<images/Grcar2.pdf, id=2502, 578.16pt x 433.62pt>
+File: images/Grcar2.pdf Graphic file (type pdf)
+<use images/Grcar2.pdf>
+Package pdftex.def Info: images/Grcar2.pdf  used on input line 393.
 (pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 401.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 393.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
  [21
+
+ <./images/Grcar1.pdf> <./images/Grcar2.pdf>]
+<images/Grcar3.pdf, id=2645, 578.16pt x 433.62pt>
+File: images/Grcar3.pdf Graphic file (type pdf)
+<use images/Grcar3.pdf>
+Package pdftex.def Info: images/Grcar3.pdf  used on input line 411.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+<images/Grcar4.pdf, id=2646, 578.16pt x 433.62pt>
+File: images/Grcar4.pdf Graphic file (type pdf)
+<use images/Grcar4.pdf>
+Package pdftex.def Info: images/Grcar4.pdf  used on input line 411.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 411.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [22
 
  <./images/Grcar3.pdf> <./images/Grcar4.pdf>] (./slide.toc)
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 403.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [22
-
-]
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 450.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 413.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
  [23
 
 ]
-Overfull \hbox (8.42796pt too wide) in paragraph at lines 478--478
-[][]  
- []
-
-
-Overfull \hbox (8.91325pt too wide) in paragraph at lines 478--478
-[][]  
- []
-
-
-Overfull \hbox (14.68953pt too wide) in paragraph at lines 478--478
-[][]  
- []
-
-
-Overfull \hbox (9.76495pt too wide) in paragraph at lines 478--478
-[][]  
- []
-
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 478.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 460.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
-[24
+ [24
 
 ]
-Overfull \hbox (8.37894pt too wide) detected at line 523
-[]
+Overfull \hbox (8.42796pt too wide) in paragraph at lines 488--488
+[][]  
+ []
+
+
+Overfull \hbox (8.91325pt too wide) in paragraph at lines 488--488
+[][]  
+ []
+
+
+Overfull \hbox (14.68953pt too wide) in paragraph at lines 488--488
+[][]  
+ []
+
+
+Overfull \hbox (9.76495pt too wide) in paragraph at lines 488--488
+[][]  
  []
 
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 523.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 488.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
 [25
 
 ]
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 545.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [26
-
-]
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 568.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [27
-
-]
-Overfull \hbox (11.07605pt too wide) in paragraph at lines 586--586
-[][]  
- []
-
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 586.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
-[28
-
-]
-<images/Precondresults.pdf, id=3377, 578.16pt x 433.62pt>
-File: images/Precondresults.pdf Graphic file (type pdf)
-<use images/Precondresults.pdf>
-Package pdftex.def Info: images/Precondresults.pdf  used on input line 602.
-(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
-
-Overfull \vbox (12.19704pt too high) detected at line 602
- []
-
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 602.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
-[29
-
- <./images/Precondresults.pdf>]
-<images/Block_results.pdf, id=3506, 578.16pt x 433.62pt>
-File: images/Block_results.pdf Graphic file (type pdf)
-<use images/Block_results.pdf>
-Package pdftex.def Info: images/Block_results.pdf  used on input line 611.
-(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 611.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [30
-
- <./images/Block_results.pdf>]
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 619.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [31
-
-]
-<images/Ares1_re.pdf, id=3744, 578.16pt x 433.62pt>
-File: images/Ares1_re.pdf Graphic file (type pdf)
-<use images/Ares1_re.pdf>
-Package pdftex.def Info: images/Ares1_re.pdf  used on input line 638.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/Ares1_im.pdf, id=3745, 578.16pt x 433.62pt>
-File: images/Ares1_im.pdf Graphic file (type pdf)
-<use images/Ares1_im.pdf>
-Package pdftex.def Info: images/Ares1_im.pdf  used on input line 638.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 638.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [32
-
- <./images/Ares1_re.pdf> <./images/Ares1_im.pdf>]
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 649.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [33
-
-]
-<images/M_res2_re.pdf, id=3989, 578.16pt x 433.62pt>
-File: images/M_res2_re.pdf Graphic file (type pdf)
-<use images/M_res2_re.pdf>
-Package pdftex.def Info: images/M_res2_re.pdf  used on input line 669.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-<images/M_res2_im.pdf, id=3990, 578.16pt x 433.62pt>
-File: images/M_res2_im.pdf Graphic file (type pdf)
-<use images/M_res2_im.pdf>
-Package pdftex.def Info: images/M_res2_im.pdf  used on input line 669.
-(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
-File: style/uu_logo_bg.pdf Graphic file (type pdf)
-<use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 669.
-(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [34
-
- <./images/M_res2_re.pdf> <./images/M_res2_im.pdf>]
-Overfull \hbox (7.59409pt too wide) detected at line 687
+Overfull \hbox (8.37894pt too wide) detected at line 533
 []
  []
 
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 687.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 533.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
-[35
+[26
+
+]
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 555.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [27
+
+]
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 578.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [28
+
+]
+Overfull \hbox (11.07605pt too wide) in paragraph at lines 596--596
+[][]  
+ []
+
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 596.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+[29
+
+]
+<images/Precondresults.pdf, id=3561, 578.16pt x 433.62pt>
+File: images/Precondresults.pdf Graphic file (type pdf)
+<use images/Precondresults.pdf>
+Package pdftex.def Info: images/Precondresults.pdf  used on input line 612.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+
+Overfull \vbox (12.19704pt too high) detected at line 612
+ []
+
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 612.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+[30
+
+ <./images/Precondresults.pdf>]
+<images/Block_results.pdf, id=3692, 578.16pt x 433.62pt>
+File: images/Block_results.pdf Graphic file (type pdf)
+<use images/Block_results.pdf>
+Package pdftex.def Info: images/Block_results.pdf  used on input line 621.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 621.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [31
+
+ <./images/Block_results.pdf>]
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 629.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [32
+
+]
+<images/Ares1_re.pdf, id=3934, 578.16pt x 433.62pt>
+File: images/Ares1_re.pdf Graphic file (type pdf)
+<use images/Ares1_re.pdf>
+Package pdftex.def Info: images/Ares1_re.pdf  used on input line 648.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+<images/Ares1_im.pdf, id=3935, 578.16pt x 433.62pt>
+File: images/Ares1_im.pdf Graphic file (type pdf)
+<use images/Ares1_im.pdf>
+Package pdftex.def Info: images/Ares1_im.pdf  used on input line 648.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 648.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [33
+
+ <./images/Ares1_re.pdf> <./images/Ares1_im.pdf>]
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 659.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [34
+
+]
+<images/M_res2_re.pdf, id=4183, 578.16pt x 433.62pt>
+File: images/M_res2_re.pdf Graphic file (type pdf)
+<use images/M_res2_re.pdf>
+Package pdftex.def Info: images/M_res2_re.pdf  used on input line 679.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+<images/M_res2_im.pdf, id=4184, 578.16pt x 433.62pt>
+File: images/M_res2_im.pdf Graphic file (type pdf)
+<use images/M_res2_im.pdf>
+Package pdftex.def Info: images/M_res2_im.pdf  used on input line 679.
+(pdftex.def)             Requested size: 150.57372pt x 112.93042pt.
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 679.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+ [35
+
+ <./images/M_res2_re.pdf> <./images/M_res2_im.pdf>]
+Overfull \hbox (7.59409pt too wide) detected at line 697
+[]
+ []
+
+File: style/uu_logo_bg.pdf Graphic file (type pdf)
+<use style/uu_logo_bg.pdf>
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 697.
+(pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
+[36
 
 ] (./slide.toc)
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 689.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 699.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [36
+ [37
 
 ]
-<images/BILD_AV_TABELL2.png, id=4349, 582.978pt x 360.1455pt>
+<images/BILD_AV_TABELL2.png, id=4550, 582.978pt x 360.1455pt>
 File: images/BILD_AV_TABELL2.png Graphic file (type png)
 <use images/BILD_AV_TABELL2.png>
-Package pdftex.def Info: images/BILD_AV_TABELL2.png  used on input line 698.
+Package pdftex.def Info: images/BILD_AV_TABELL2.png  used on input line 708.
 (pdftex.def)             Requested size: 276.559pt x 170.85106pt.
 File: style/uu_logo_bg.pdf Graphic file (type pdf)
 <use style/uu_logo_bg.pdf>
-Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 698.
+Package pdftex.def Info: style/uu_logo_bg.pdf  used on input line 708.
 (pdftex.def)             Requested size: 136.5866pt x 136.5733pt.
- [37
+ [38
 
  <./images/BILD_AV_TABELL2.png>]
 \tf@nav=\write8
@@ -1972,18 +1984,18 @@ Package rerunfilecheck Info: File `slide.out' has not changed.
 (rerunfilecheck)             Checksum: 866EA408EA18AF075A39BEAEC2A4DA65;418.
  ) 
 Here is how much of TeX's memory you used:
- 33674 strings out of 474116
- 665066 string characters out of 5743682
- 1989187 words of memory out of 5000000
- 55234 multiletter control sequences out of 15000+600000
+ 33689 strings out of 474116
+ 665419 string characters out of 5743682
+ 1990187 words of memory out of 5000000
+ 55246 multiletter control sequences out of 15000+600000
  572766 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,123p,451b,1461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on slide.pdf (37 pages, 905406 bytes).
+Output written on slide.pdf (38 pages, 917921 bytes).
 PDF statistics:
- 4555 PDF objects out of 5155 (max. 8388607)
- 2856 compressed objects within 29 object streams
- 129 named destinations out of 1000 (max. 500000)
- 215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4756 PDF objects out of 5155 (max. 8388607)
+ 2975 compressed objects within 30 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 220 words of extra memory for PDF output out of 10000 (max. 10000000)
 

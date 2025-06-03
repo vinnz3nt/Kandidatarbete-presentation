@@ -13,44 +13,45 @@
 \beamer@slide {fig:Spectrum Laplace & perturbed}{14}
 \beamer@slide {eq: block-matrix template}{15}
 \beamer@slide {block-matrix entries}{16}
-\beamer@slide {fig:per_bi_lap_sym}{18}
-\beamer@slide {sub@fig:per_bi_lap_sym}{18}
-\beamer@slide {fig:eigval_per_bilap}{18}
-\beamer@slide {sub@fig:eigval_per_bilap}{18}
-\beamer@slide {fig:Spectrum Laplace & perturbed}{18}
-\beamer@slide {fig:Grcar spectrum1}{19}
-\beamer@slide {sub@fig:Grcar spectrum1}{19}
-\beamer@slide {fig:Grcar spectrum2}{19}
-\beamer@slide {sub@fig:Grcar spectrum2}{19}
-\beamer@slide {fig:Grcar spektrum}{19}
-\beamer@slide {fig:Grcar sort1}{20}
-\beamer@slide {sub@fig:Grcar sort1}{20}
-\beamer@slide {fig:Grcar sort2}{20}
-\beamer@slide {sub@fig:Grcar sort2}{20}
-\beamer@slide {fig:Sorteringsalternativ 1}{20}
-\beamer@slide {fig:Grcar sort3}{21}
-\beamer@slide {sub@fig:Grcar sort3}{21}
-\beamer@slide {fig:Grcar sort4}{21}
-\beamer@slide {sub@fig:Grcar sort4}{21}
-\beamer@slide {fig:Sorteringsalternativ 2}{21}
-\beamer@slide {fig:sym_mats}{23}
-\beamer@slide {fig: Unnamed nonsym}{25}
-\beamer@slide {Preconditioned result}{29}
-\beamer@slide {Results Preconditioned}{29}
-\beamer@slide {fig:Block Toepltix results}{30}
-\beamer@slide {eq: Block result 1}{31}
-\beamer@slide {eq: Block result 2}{31}
-\beamer@slide {eq: Block result 3}{31}
-\beamer@slide {fig:Ares1_re}{32}
-\beamer@slide {sub@fig:Ares1_re}{32}
-\beamer@slide {fig:Ares1_im}{32}
-\beamer@slide {sub@fig:Ares1_im}{32}
-\beamer@slide {fig:Ares1}{32}
-\beamer@slide {eq:Grcar1 A}{33}
-\beamer@slide {fig:Mres2_re}{34}
-\beamer@slide {sub@fig:Mres2_re}{34}
-\beamer@slide {fig:Mres2_im}{34}
-\beamer@slide {sub@fig:Mres2_im}{34}
-\beamer@slide {fig:Mres2}{34}
-\beamer@slide {eq:mod_g_2}{35}
-\beamer@slide {fig:enter-label}{37}
+\beamer@slide {Block eigfunc}{17}
+\beamer@slide {fig:per_bi_lap_sym}{19}
+\beamer@slide {sub@fig:per_bi_lap_sym}{19}
+\beamer@slide {fig:eigval_per_bilap}{19}
+\beamer@slide {sub@fig:eigval_per_bilap}{19}
+\beamer@slide {fig:Spectrum Laplace & perturbed}{19}
+\beamer@slide {fig:Grcar spectrum1}{20}
+\beamer@slide {sub@fig:Grcar spectrum1}{20}
+\beamer@slide {fig:Grcar spectrum2}{20}
+\beamer@slide {sub@fig:Grcar spectrum2}{20}
+\beamer@slide {fig:Grcar spektrum}{20}
+\beamer@slide {fig:Grcar sort1}{21}
+\beamer@slide {sub@fig:Grcar sort1}{21}
+\beamer@slide {fig:Grcar sort2}{21}
+\beamer@slide {sub@fig:Grcar sort2}{21}
+\beamer@slide {fig:Sorteringsalternativ 1}{21}
+\beamer@slide {fig:Grcar sort3}{22}
+\beamer@slide {sub@fig:Grcar sort3}{22}
+\beamer@slide {fig:Grcar sort4}{22}
+\beamer@slide {sub@fig:Grcar sort4}{22}
+\beamer@slide {fig:Sorteringsalternativ 2}{22}
+\beamer@slide {fig:sym_mats}{24}
+\beamer@slide {fig: Unnamed nonsym}{26}
+\beamer@slide {Preconditioned result}{30}
+\beamer@slide {Results Preconditioned}{30}
+\beamer@slide {fig:Block Toepltix results}{31}
+\beamer@slide {eq: Block result 1}{32}
+\beamer@slide {eq: Block result 2}{32}
+\beamer@slide {eq: Block result 3}{32}
+\beamer@slide {fig:Ares1_re}{33}
+\beamer@slide {sub@fig:Ares1_re}{33}
+\beamer@slide {fig:Ares1_im}{33}
+\beamer@slide {sub@fig:Ares1_im}{33}
+\beamer@slide {fig:Ares1}{33}
+\beamer@slide {eq:Grcar1 A}{34}
+\beamer@slide {fig:Mres2_re}{35}
+\beamer@slide {sub@fig:Mres2_re}{35}
+\beamer@slide {fig:Mres2_im}{35}
+\beamer@slide {sub@fig:Mres2_im}{35}
+\beamer@slide {fig:Mres2}{35}
+\beamer@slide {eq:mod_g_2}{36}
+\beamer@slide {fig:enter-label}{38}

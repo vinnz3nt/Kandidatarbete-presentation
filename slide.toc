@@ -1,5 +1,5 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{Introduktion}{3}{0}{1}
 \beamer@sectionintoc {2}{Metod}{9}{0}{2}
-\beamer@sectionintoc {3}{Resultat och diskussion}{22}{0}{3}
-\beamer@sectionintoc {4}{Slutsats}{36}{0}{4}
+\beamer@sectionintoc {3}{Resultat och diskussion}{23}{0}{3}
+\beamer@sectionintoc {4}{Slutsats}{37}{0}{4}
